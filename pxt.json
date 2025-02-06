@@ -1,6 +1,5 @@
 {
     "name": "Visual Story ",
-    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -21,5 +20,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
