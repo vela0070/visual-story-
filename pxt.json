@@ -2,13 +2,15 @@
     "name": "Visual Story ",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "Visual Story ": "github:vela0070/visual-story-#v0.0.2"
+        "device": "*"
     },
     "files": [
         "main.blocks",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "main.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +22,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
