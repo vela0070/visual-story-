@@ -1,16 +1,15 @@
 {
     "name": "Visual Story ",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "device": "*"
     },
     "files": [
         "main.blocks",
-        "README.md",
-        "assets.json",
         "main.ts",
-        "tilemap.g.jres",
-        "tilemap.g.ts"
+        "README.md",
+        "assets.json"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +21,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
